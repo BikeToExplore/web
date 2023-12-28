@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Bike to explore
-logo: '/images/logo/du-logo.jpg' 
+logo: '/images/logo.png' 
 description: Bike to explore
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biketoexplore.com" # the base hostname & protocol for your site, e.g. http://example.com
