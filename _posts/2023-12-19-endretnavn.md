@@ -20,23 +20,20 @@ Many would advise to do some shorter events first. But for me it’s not really 
 
 I wan’t the TCR experience, because that’s what ignited my ultra spark. So I'm not going to wait (if I get a spot in 2024).
 
-This is how I have always done it. I raced my first DH national championship one month after I got my first DH bike. I spent most of my training runs standing around being scared of hitting the most sketchy sections. I was mostly by myself, and I did not feel ready at all. I had to learn while I was racing. All I know is that there is no way I would have progressed as fast if I waited until I felt ready. 
-
-Most people feel they need to reach a certain level before they can race, but they usually wait too long. The longer you wait, the more you will be lagging behind. You might never catch up to that person who did not wait. Racing is the fastest way to improve, as it forces you out of yout comfort zone. 
-
-I always admired people who enter races even when they know they will end up last. I think these people are the best ambassadors for any sport sport. 
-
-TCR is more than a physical challenge. That’s what makes it an adventure. There will be challenges I can’t control. What I can control is how well I prepare. At least I can train hard. 
+This is how I have always done it. I raced my first DH national championship one month after I got my first DH bike. I spent most of my training runs standing around being scared of hitting the most sketchy sections. I was mostly by myself, and I did not feel ready at all. I had to learn while I was racing. All I know is that there is no way I would have progressed as fast if I waited until I felt ready. Racing is the fastest way to improve, as it forces you out of yout comfort zone. 
 
 
 ## It is time to take training seriously. I am all in. 
 
-First I need to figure out how to train for something like this. 
+TCR is more than a physical challenge. That’s what makes it an adventure. There will be challenges I can’t control and train for. What I can control is how well I prepare. At least I can train hard. 
+
+But how do you train for a race like TCR?
 
 The first thing I did was to gather as much info as possible about the physical demands of the race. Then I wrote down my current physical profile to find gaps I need to improve. 
 
 
 # Physical race demands: 
+
 - Duration: Multiple days, 18-20 hours a day on the bike
 - Intensity: Mostly below LT1 (aerobic threshold).
 - Energi use: 8 - 10 000 kcal per dag.
@@ -103,7 +100,7 @@ Red = Priority 1 to improve.
 Purple = Good enough, but an opportunity for easy gains. 
 
 
-Looking at this table, there are four main aeas I will focus on with my training. Let's have a closer look at what these are. 
+Looking at this table, there are some clear aeras I need to focus on. Let me go a bit more into detail on how I ended up with this conclusion. 
 
 
 # Aerobic capacity and fractional utilization
@@ -167,11 +164,11 @@ I belive that true strength requires good mobility. No point being strong, if yo
 
 ## Milestones on the road to TCR
 
-Based on my gap assessment, I have written down a few training goals to work towards. Some small and some bigger milestones along the way to TCR. 
+Based on my gap assessment, I have written down a few training goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress, while also keep me motivated. By reaching these milestones, I belive I will be well prepared to reach my goal.  
 
 Some goals might not make sense, but they all serve a purpose. Squatting more than my body weight won’t automatically make me an ultra goddess, but it will motivate me to go to the gym. I am highly motivated by numbers, and the only thing that really motivates me is progress.  
 
-My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. 
+My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. There is always motivation to be found, if you look for it. 
 
 Green = Completed / current level. 
 White = Not completed.
@@ -181,7 +178,7 @@ White = Not completed.
 
 ## My big plan
 
-The big question still remains: How will I train to achieve my goals?
+The big question still remains: ** How will I train to achieve my goals?**
 
 This will require trial and error, but I belive I have a good enough plan to get me started.
 
