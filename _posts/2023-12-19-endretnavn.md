@@ -1,10 +1,10 @@
 ---
 layout: post
-title:   My ultra racing training strategy 23/24
+title:   My ultra racing training strategy for TCR
 description: Description of things
 date:   2023-12-10 15:01:35 +0300
 image:  ''
-tags:   [training]
+tags:   [Training][TCR]
 ---
 
 ## Why ultra racing? 
@@ -32,7 +32,7 @@ But how do you train for a race like TCR?
 The first thing I did was to gather as much info as possible about the physical demands of the race. Then I wrote down my current physical profile to find gaps I need to improve. 
 
 
-# Physical race demands: 
+### Physical race demands: 
 
 - Duration: Multiple days, 18-20 hours a day on the bike
 - Intensity: Mostly below LT1 (aerobic threshold).
@@ -45,7 +45,7 @@ The first thing I did was to gather as much info as possible about the physical 
 
 
 
-# Where am I as an athlete?
+### Where am I as an athlete?
 
 - I always loved cycling, and always had a bike. 
 - My main sport growing up was soccer. 
@@ -77,7 +77,7 @@ The first thing I did was to gather as much info as possible about the physical 
 I took part in a research study about two years ago where I tested things like VO2max, utilization of VO2 max and oxygen extraction at V02max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my V02max(my heart needs to pump more oxygen) is one of my main limiters. These results makes sense with my training history. I have done mostly sone 2/3 ( with high cadence) and some sprints the last two years. An injury have made it hard for me to do intervalls, so I have done very little HIIT intervall training in general. 
 
 
-# Finding my strength and weakneses(gap assesment). 
+## Finding my strength and weakneses. 
 
 I recently stumbled over HIGHNORT’s book Cycling Physiology of training Science, which I highly recommend. I took a table from this book and modified it to show the desired physical profile ( race demand) vs. my current physical profile. 
 
@@ -103,7 +103,7 @@ Purple = Good enough, but an opportunity for easy gains.
 Looking at this table, there are some clear aeras I need to focus on. Let me go a bit more into detail on how I ended up with this conclusion. 
 
 
-# Aerobic capacity and fractional utilization
+### Aerobic capacity and fractional utilization
 
 This is your VO2max, which is simply your heart's capacity to deliver oxygen to your muscles, and your muscles efficiency at turning that oxygen into energy. 
 VO2 max is the main limiter of your aerobic capacity, and it’s also genetic. You can improve it, some say even up to 25% or more, but most of us will never reach the same levels as the world's best no matter how hard we train. 
@@ -118,7 +118,7 @@ Your fractional utilization goes down as duration goes up. This is highly traina
 My ranking of myself is based on my high fractional utilization and a decent, but not great V02max. I have done very few V02max workouts the last few years (or ever), which has made V02max my limiter. There is definitely room for improvement here, and some should be relatively easy gains.
 
 
-# Fat oxidation: 
+### Fat oxidation: 
 
 There are several studies showing that women naturally seem to be more efficient at using fat as fuel, and that this might be the reason why we are competitive with men in ultra long endurance events. 
 
@@ -134,11 +134,11 @@ TCR has a lot of climbing. I know that I can climb most climbs at around 200w. S
 
 LT1 is limited by LT2 ( anaerobic threshold), so you still need a good LT2.. 
 
-# Vlamax
+### Vlamax
 
 
 
-# Endurance 
+### Endurance 
 
 This is about muscular endurance, fatigue resistance and work economy. 
 
@@ -149,7 +149,7 @@ My muscular endurance is however bad. I have a natural high cadence (90), and th
 
 
 
-# Strength/mobility
+### Strength/mobility
 
 Spending 18-20 hours on the bike, day inn and day out is fatiguing for the whole body, not just the legs. 
 
@@ -188,7 +188,7 @@ I also have to be patiant and disciplined, and not try everything at once. It ca
 
 
 
-# Phase 1: Increase muscular endurance, start strenght traiing and lower Vlamax
+### Phase 1: Increase muscular endurance, start strenght traiing and lower Vlamax
 
 I see muscular endurance as my biggest weakness. This is also closely linked to strenght training and Vlamax. 
 
@@ -218,7 +218,7 @@ I have not yet decided if I want to do V02max during this phase. My priority 1 w
 
 
 
-## Phase 2: Fatigue resistance, V02max and some test racing.
+### Phase 2: Fatigue resistance, V02max and some test racing.
 
 This phase might change based on what I learn from phase 1. 
 
@@ -244,7 +244,7 @@ I also plan to do some local brevets, hopefully with friends. I don't see this a
  
 
 
-## Phase 3: Peaking for the big race
+### Phase 3: Peaking for the big race
 
 I have not yet done any research on how to peak for something like this, but I definitly want to be fresh at the start. Both physically and mentally. Especially mentally. 
 
