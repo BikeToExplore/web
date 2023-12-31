@@ -2,7 +2,7 @@
 layout: post
 title:   My ultra racing training strategy for TCR
 description: Description of things
-date:   2023-12-10 15:01:35 +0300
+date:   2023-12-24 15:01:35 +0300
 image:  ''
 tags:   [Training][TCR]
 ---
