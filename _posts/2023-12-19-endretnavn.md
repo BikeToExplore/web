@@ -4,7 +4,7 @@ title:   My ultra racing training strategy for TCR
 description: Description of things
 date:   2023-12-24 15:01:35 +0300
 image:  ''
-tags:   [Training][TCR]
+tags:   [Training, TCR]
 ---
 
 ## Why ultra racing? 
@@ -135,7 +135,7 @@ Endurance takes time to train, especially work economy, which is highly sport-sp
 
 My muscular endurance is, however, bad. I have a natural high cadence (90), and the more power I push down the pedal, the higher the cadence. I am used to easy MTB gear and like to spin to save my legs.
 
-
+ 
 
 ### Strength/mobility
 
