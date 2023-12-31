@@ -9,7 +9,7 @@ tags:   [Training, TCR]
 
 ## Why ultra racing? 
 
-It's been more than four months since I decided I wanted to race TCR.
+It's been more than four months since I decided I wanted to race **[The trans continental race (TCR)] (https://www.lostdot.cc/race-brand/transcontinental). 
 Since then, I have been asking myself **WHY**. All I know is that I want adventures without sacrificing my current life.
 
 I am one of those people who dream about going on big adventures, but when I finally do, I always end up racing to get back home. I always feel bad for rushing home, so I figured ultra racing might be the balance for me.
@@ -139,28 +139,26 @@ My muscular endurance is, however, bad. I have a natural high cadence (90), and 
 
 ### Strength/mobility
 
-Spending 18-20 hours on the bike, day inn and day out is fatiguing for the whole body, not just the legs. 
+Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole body, not just the legs.
 
-For me this is about comfort on the bike and injury prevention. 
+For me, this is about **comfort on the bike and injury prevention.**
 
-I have an injury which I believe is caused by muscle unbalance. I have also always struggled with comfort on the bike, even after several bikefits. 
+I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits.
 
-I belive that true strength requires good mobility. No point being strong, if you can’t be strong in the desired position. Rock climbing has really shown me the power of great mobility, and how much it can limit even you no matter how strong your muscles are.  
+**I believe that true strength requires great mobility.** Rock climbing has really shown me the power of great mobility and how much it can limit you.
  
-
 
 
 ## Milestones on the road to TCR
 
-Based on my gap assessment, I have written down a few training goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress, while also keep me motivated. By reaching these milestones, I belive I will be well prepared to reach my goal.  
+Based on my gap assessment, I have written down a few training goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress while also keeping me motivated. By reaching these milestones, I believe I will be well prepared to reach my goal of < 12 hours. 
 
-Some goals might not make sense, but they all serve a purpose. Squatting more than my body weight won’t automatically make me an ultra goddess, but it will motivate me to go to the gym. I am highly motivated by numbers, and the only thing that really motivates me is progress.  
+Some of these goals might not make sense to you, but they all serve a purpose. Squatting more than my body weight won’t automatically make me an ultra goddess, but it will motivate me to go to the gym. I am highly motivated by numbers, and the only thing that really motivates me is progress and adventure. 
 
-My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. There is always motivation to be found, if you look for it. 
+My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. There is always motivation to be found if you look for it.
 
-Green = Completed / current level. 
-White = Not completed.
-
+**Green = Completed / current level.
+White = Not completed.**
 
 
 
@@ -168,64 +166,63 @@ White = Not completed.
 
 The big question still remains: ** How will I train to achieve my goals?**
 
-This will require trial and error, but I belive I have a good enough plan to get me started.
+This will require trial and error, but I believe I have a good enough plan to get me started.
 
-All I know is that you sometimes have to get worse at one thing to improve another. I know that I have to sacrifice my sprint and anaerobic power to reach my goal. I can’t be good at both.
+All I know is that **sometimes you have to get worse at one thing to improve another.** I know that I have to sacrifice my sprint and anaerobic power to reach my goal. I can’t be good at both.
 
-I also have to be patiant and disciplined, and not try everything at once. It can take me years to fully figure out what works for me. Some data is better than none. I just have to just start collecting data and learn from it.
+I also have to be patient and disciplined, and not try everything at once. It can take me years to fully figure out what works for me. Some data is better than none. I just have to start collecting data and learn from it.
 
 
 
 ### Phase 1: Increase muscular endurance, start strenght traiing and lower Vlamax
 
-I see muscular endurance as my biggest weakness. This is also closely linked to strenght training and Vlamax. 
+**I see muscular endurance as my biggest weakness.** This is also closely linked to strength training and VLaMax.
 
-This means that I will use a pyramidal training approach in this phase. Most of the training will be below LT2. My intervall sessions will be between LT1 and LT2, So lots of tempo and sweet spot (SS) intervals. The msin focus will be to increase time in zone, and not power. Some do it the other way around. Increase power first, then work on increasing duration at their new power. I have tried this, and for me this is a great way to burn out. Maybe this works if you already have good muscular endurance, something I do not. 
+This means that I will use a **pyramidal training approach** in this phase. Most of the training will be below LT2. My interval sessions will be between LT1 and LT2, so lots of tempo and sweet spot (SS) intervals. The main focus will be to increase time in the zone, and not power. Some do it the other way around. **Increase power first, then work on increasing duration at their new power.** I have tried this, and for me, this is a great way to burn out. Maybe this works if you already have good muscular endurance, something I do not.
 
-I also plan to do alot of these intervalls at a lower cadence. This will help with muscular endurance, but my main reason for doing these is to lower Vlamax. When training to lower your Vlamax, you want to convert your fast twitch muscles to be more slow twitch muscles (which has higher fatigue resistance). To achieve this, you have to recruit them while training, which won’t happen if you ride below LT1 (unless you are fatigued). Instead you have to ride at a higher power or at a higher torque. Doing both at the same time will recruit even more fast twitch muscles.
+I also plan to do a lot of these **intervals at a lower cadence.** This will help with muscular endurance, but my main reason for doing these is to lower VLaMax. When training to lower your VLaMax, you want to convert your fast-twitch muscles to be more slow-twitch muscles (which have higher fatigue resistance). To achieve this, you have to recruit them while training, which won’t happen if you ride below LT1 (unless you are fatigued). Instead, you have to ride at a higher power or at a higher torque. Doing both at the same time will recruit even more fast-twitch muscles.
 
-I also plan to do a lot of max strength training in the gym. This will hopefully improve my muscular endurance and comfort on the bike. Strength training also complements the pyramidal training approach well. Especially when combining two sessions a day. You can for example do one gym session in the morning, then low cadence work in the evening to really recruit as many muscle fibers as possible. You can also combine a gym session with an easy below LT1 session to simulate the fatigue you get from a longer ride.
+I also plan to do a lot of **max strength training in the gym.** This will hopefully improve my muscular endurance and comfort on the bike. Strength training also complements the pyramidal training approach well. Especially when combining two sessions a day. You can, for example, do one gym session in the morning, then low cadence work in the evening to really recruit as many muscle fibers as possible. You can also combine a gym session with an easy below LT1 session to simulate the fatigue you get from a longer ride.
 
-The issue with strenght training is that it could also increase your Vlamax, something I do not want. Some say that max strength training with few reps won't affect Vlamax as much. There is only one way to find out, and that is to test and monitor progress. 
+The issue with strength training is that it could also increase your VLaMax, something I do not want. Some say that max strength training with few reps won't affect VLaMax as much. There is only one way to find out, and that is to test and monitor progress.
 
-Most importantly. I need to find out how I can efficiently lower Vlamax, and how long it will take. 
-It is okay to have a high Vlamax in periods, as long as it’s low when I need it to. 
+Most importantly, **I need to find out how I can efficiently lower VLaMax, and how long it will take.**
 
+It is okay to have a high VLaMax in periods, as long as it’s low when I need it to.
 
-So what about V02max? This is one of my main limiters, and most likely something I can see quick improvments in. 
+**So what about VO2 max?** This is one of my main limiters, and most likely something I can see quick improvements in.
 
-The problem is that this type of training will increase Vlamax, so I need to be smart about how I do it. 
+The problem is that this type of training will increase VLaMax, so I need to be smart about how I do it.
 
-I have read that some pro’s will do their V02max training early in the day to empty their glycogen storage in the muscles, and then some low cadence intervals ( tempo/SS) later in the day. This will then force your muscles to use more fat ( work more aerobically), which makes it an efficient way to lower your Vlamax. This is another thing I need to test.  
+I have read that some pros will do their VO2 max training early in the day to empty their glycogen storage in the muscles, and then some low cadence intervals (tempo/SS) later in the evening. This will then force your muscles to use more fat (work more aerobically), which makes it an efficient way to lower your VLaMax. This is another thing I need to test.
 
-Many seem to do at least a few V02 max sessions a month ( for maintenance). They also do V02max blocks now and then to raise the ceiling before a new training phase. 
+Many seem to do at least a few VO2 max sessions a month (for maintenance). They also do VO2 max blocks now and then to raise the ceiling before a new training phase.
 
-The problem with V02 max is that it’s easily trained, and therefore easily lost. It kinda feels like a shortcut to fitness. You can quickly get really fit with V02max training, but you will lose it just as quickly. So you have to know when to use it. It also creates a lot of fatigue, so it will affect what other type of training you can do. 
+The problem with VO2 max is that it’s easily trained, and therefore easily lost. It kinda feels like a shortcut to fitness. You can quickly get really fit with VO2 max training, but you will lose it just as quickly. So you have to know when to use it. It also creates a lot of fatigue, so it will affect what other types of training you can do.
 
-I have not yet decided if I want to do V02max during this phase. My priority 1 with this phase is to find out how to lower vlamax while improving muscular endurance and strenght. 
+I have not yet decided if I want to focus on VO2 max during this phase. **My priority 1 is to find out how to lower VLaMax while improving muscular endurance and strength.**
 
 
 
 ### Phase 2: Fatigue resistance, V02max and some test racing.
 
-This phase might change based on what I learn from phase 1. 
+This phase might change based on what I learn from phase 1.
 
-The focus now to build up mileage. It’s time for weekend adventures and longer rides outside.  I wan't to feel good during all day rides when this phase is over.  
+**The focus now is to build up mileage.** It’s time for weekend adventures and longer rides outside. **I want to feel good during all-day rides when this phase is over.**
 
-At this point, my Vlamax will hopefully be lower. Which means that the training now get’s a bit more polarized, at least in periods. I will probably train polarized during the weeks I want to do big weekend rides and adventures, and more pyramidal when that is not the case. 
+At this point, my VLaMax will hopefully be lower. Which means that the training now gets a bit more polarized, at least in periods. I will probably train polarized during the weeks I want to do big weekend rides and adventures, and more pyramidal when that is not the case.
 
-I will reduce my strength training in the gym to a maintenance level. 
+I will reduce my strength training in the gym to a maintenance level.
 
-I will probably also try to increase my LT1 as high as possible. Which most likely means more V02max training, especially during the periods I am using a more polarized approach. Again, this deepends on what my results are after phase 1. 
+I will probably also try to increase my LT1 as high as possible. Which most likely means more VO2 max training, especially during the periods I am using a more polarized approach. Again, this depends on what my results are after phase 1.
 
-There will also hopefully be lots of weekend adventures to test my gear and just enjoy bikepacking. These adventures will be good for fatigue resistance and mental training, but I won’t do any intervals or any structured training during these rides. I will just try and ride them at ultra pace and enjoy being on my bike. 
+There will also hopefully be lots of weekend adventures to test my gear and just enjoy bikepacking. These adventures will be good for fatigue resistance and mental training, but I won’t do any intervals or any structured training during these rides. I will just try and ride them at ultra pace and enjoy being on my bike.
 
+**[Race around Denmark](https://racearounddenmark.org/)** in May will be my first bikepacking ultra race experience. I plan to do this race this event full-on, and not just as a training ride.
 
-**The Race around Danmark** in May will be my first bikepacking ultra race experience. I plan to do this race this event full on, and not just as a training ride. 
+I picked this race because of the timing, easy logistics, and because it's a lot like home. I wanted an early season race to test my setup and progress. It is also one of the easier races to enter logistically for me. I can take my car and a ferry, and it starts and stops at the same place. I also feel safe in Denmark. I understand the language (kinda) and it's known to be a great place for cyclists. When you grow up in Norway, you do grow up in a very protected environment (even with a crappy childhood). This makes the world outside feel dangerous, probably more than it is. I don't want to be afraid, but at the same time, I don't have to push myself out of my comfort zone on everything at once. Just doing my first ultra race will be a big enough challenge on its own.
 
-I picked this race because of the timing, easy logistics and because it's alot like home. I wanted an early season race to test my setup and progress.  It is also one of the easier races to enter logistically for me. I can take my car and a ferry, and it starts and stops  at the same place. I also feel safe in Danmark. I understand the language(kinda) and it's known to be a great place for cyclists. When you grow up in Norway, you do grow up in a very protected environment(even with a crappy childhood). This makes the world outside feel dangerous, probably more than it is. I don't wan't to be afraid, but at the same time, I don't have to push myself out of my comfort zone on everything at once. Just doing my first ultra race will be a big enough challenge on it's own. 
-
-These races takes alot of time and logistics, so I probably won't do to many. If I am to race TCR, that will take up most of my vacation days. And it's not like you need to enter a race to test yourself anyway. I can easly create my own race to get the practice I need. That sure is one big upside of doing unsupported racing, and why I think many love it. It's a personal challenge above anything else. 
+These races take a lot of time and logistics, so I probably won't do too many. If I am to race TCR, that will take up most of my vacation days. And it's not like you need to enter a race to test yourself anyway. I can easily create my own race to get the practice I need. That sure is one big upside of doing unsupported racing, and why I think many love it. It's a personal challenge above anything else.
 
 I also plan to do some local brevets, hopefully with friends. I don't see this as racing though. More like a challenge ride. 
 
@@ -234,13 +231,12 @@ I also plan to do some local brevets, hopefully with friends. I don't see this a
 
 ### Phase 3: Peaking for the big race
 
-I have not yet done any research on how to peak for something like this, but I definitly want to be fresh at the start. Both physically and mentally. Especially mentally. 
+I have not yet done any research on how to peak for something like this, but I definitely want to be fresh at the start. Both physically and mentally. Especially mentally.
 
-I plan to do a little peak before Race Around danmark, as it will be a nice learning experience on peaking. Hopefully I can use what I learned from that process going into this phase. 
+I plan to do a little peak before Race Around Denmark, as it will be a nice learning experience on peaking. Hopefully, I can use what I learned from that process going into this phase.
 
-In general when peaking you want to lower the volume, but increase or maintain intensity. So maybe I will do some V02max efforts to get a little peak. 
+In general, when peaking, you want to lower the volume but increase or maintain intensity. So maybe I will do some VO2 max efforts to get a little peak.
 
-I definitly don't wan't to be fatigued at the start. 
-
+I definitely don't want to be fatigued at the start.
 
 
