@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   My ultra racing training strategy for TCR
+title:   My training strategy for the Trans continental race ( TCR)
 description: Description of things
 date:   2023-12-24 15:01:35 +0300
 image:  ''
@@ -51,27 +51,25 @@ The first thing I did was to gather as much info as possible about the physical 
 - I started Zwifting at the end of 2020.
 - I got my first road bike in May 2022 and my first gravel bike in May 2019.
 - I have done little strength training.
-- I have been rock climbing for a few years. Level = 6b-6c.
+- I have been rock climbing for a few years, on and off. Level = 6b-6c. 
 - I have always suffered from bad mobility and flexibility.
-- My longest ride is 300 km (total time: 12h 25min).
-- My longest bikepacking trip is 1500 km (13 days).
+- My longest solo ride is 300 km (Total time: 12h 25min).
+- My longest bikepacking trip is 1500 km (13 days). 
 - I have only done one night ride - with 2 hours of darkness (Norwegian summer).
 - I have no experience with riding in aero bars.
 - Peak power = 996 W (should be lower now).
-- 30-second power = 633 W (Zwift racing).
+- Peak 30s power = 633 W (Zwift racing).
 - Max 5-minute power = 270-280 W (Zwift racing).
 - FTP (ramp test) = 235 W (always overestimates my FTP).
 - Lactate threshold (LT2) - about 215-220 W. Will test more specifically soon.
 - Aerobic threshold (LT1) - 170w
-- Weight: 67-68 kg, Height: 168 cm
 - VO2 max = 50 ml/kg/min.
 - Utilization of VO2 max = 90% - average during 30-min time trial.
 - Oxygen extraction at VO2 max = 94%
 - Vlmax = 0.65 (this is not 100% accurate, as I need more practice testing)
-- Lactate clearance rate = 0.35
-- Lactate clearance drop = 52.6%
 
-I took part in a research study about two years ago where I tested things like VO2 max, utilization of VO2 max, and oxygen extraction at VO2 max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my VO2 max (my heart's capacity to deliver oxygen to my muscles) is one of my main limiters. I think These results make sense with my training history. I have done mostly zone 2/3 (with high cadence) and some sprints in the last two years. An injury has made it hard for me to do intervals, so I have done very little HIIT training.
+
+Some of these numbers are 1-2 years old, while others are recent. I took part in a research study about two years ago where I tested things like VO2 max, utilization of VO2 max, and oxygen extraction at VO2 max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my VO2 max (my heart's capacity to deliver oxygen to my muscles) is one of my main limiters. I think These results make sense with my training history. I have done mostly zone 2/3 (with high cadence) and some sprints in the last two years. An injury has made it hard for me to do intervals, so I have done very little HIIT training.
 
 
 ## What I need to improve 
@@ -85,7 +83,11 @@ Green = Good enough. Focus on maintenance.
 Red = Priority 1 to improve.
 Purple = Good enough, but an opportunity for easy gains.
 
+![TCR demands vs. my current profile](images/post1/tcrdemands.png)
+
 Looking at this table, there are some clear areas I need to focus on. Let me go a bit more into detail on how I ended up with this conclusion.
+
+
 
 
 ## Aerobic capacity and fractional utilization
