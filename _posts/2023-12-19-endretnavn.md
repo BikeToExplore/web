@@ -83,10 +83,9 @@ Green = Good enough. Focus on maintenance.
 Red = Priority 1 to improve.
 Purple = Good enough, but an opportunity for easy gains.
 
-![TCR demands vs. my current profile](images/post1/tcrdemands.png)
+![TCR demands vs. my current profile](\images\post1\tcrdemands.PNG)
 
 Looking at this table, there are some clear areas I need to focus on. Let me go a bit more into detail on how I ended up with this conclusion.
-
 
 
 
