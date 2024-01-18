@@ -42,9 +42,9 @@ social:
 
 #-------------------------------
 # Contact Settings
-contact:
-  email:  # Add your email for contant form
-  description: 
+#contact:
+#  email:  # Add your email for contant form
+#  description: 
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
