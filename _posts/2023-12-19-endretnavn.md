@@ -128,8 +128,7 @@ With an individual training program, the first measurable changes in Vlamax can 
 
 The problem is that there are no standard tests for Vlamax. This means that the measured value is heavily influenced by the protocol and the exercise itself, something I have noticed. I have tested this twice and quickly learned that I need to dial in a strict protocol to make it comparable. All I know is that my Vlamax is too high (around 0.5-0.7), and that this affects my fat metabolism and also my power profile.
 
-I found this graph posted by tofel on the (Trainerroad Forum](https://www.trainerroad.com/forum/t/that-triathlon-show-ep-169-ftp-vo2max-and-vlamax/11992/60?page=4)
-
+I found this graph posted by tofel on the[Trainerroad Forum](https://www.trainerroad.com/forum/t/that-triathlon-show-ep-169-ftp-vo2max-and-vlamax/11992/60?page=4). It shows the relationship between Vlamax, V02 max and your FTP. 
 
 
 ![FTP vs. V02Max vs. Vlamax](images/post1/FTPvsV02MAXvsVlamaxgraph.png)
@@ -186,27 +185,25 @@ I also have to be patient and disciplined, and not try everything at once. It ca
 
 This means that I will use a **pyramidal training approach** in this phase. Most of the training will be below LT2. My interval sessions will be between LT1 and LT2, so lots of tempo and sweet spot (SS) intervals. The main focus will be to increase time in the zone, and not power. Some do it the other way around. **Increase power first, then work on increasing duration at their new power.** I have tried this, and for me, this is a great way to burn out. Maybe this works if you already have good muscular endurance, something I do not.
 
-I also plan to do a lot of these **intervals at a lower cadence.** This will help with muscular endurance, but my main reason for doing these is to lower VLaMax. When training to lower your VLaMax, you want to convert your fast-twitch muscles to be more slow-twitch muscles (which have higher fatigue resistance). To achieve this, you have to recruit them while training, which won’t happen if you ride below LT1 (unless you are fatigued). Instead, you have to ride at a higher power or at a higher torque. Doing both at the same time will recruit even more fast-twitch muscles.
+I also plan to do a lot of these **intervals at a lower cadence.** This will help with muscular endurance, but also lower my VlaMax. When training to lower your VLaMax, you want to convert your fast-twitch muscles to be more slow-twitch muscles (which have higher fatigue resistance). To achieve this, you have to recruit them while training, which won’t happen if you ride below LT1 (unless you are fatigued). Instead, you have to ride at a higher power or at a higher torque. Doing both at the same time will recruit even more fast-twitch muscles.
 
 I also plan to do a lot of **max strength training in the gym.** This will hopefully improve my muscular endurance and comfort on the bike. Strength training also complements the pyramidal training approach well. Especially when combining two sessions a day. You can, for example, do one gym session in the morning, then low cadence work in the evening to really recruit as many muscle fibers as possible. You can also combine a gym session with an easy below LT1 session to simulate the fatigue you get from a longer ride.
 
-The issue with strength training is that it could also increase your VLaMax, something I do not want. Some say that max strength training with few reps won't affect VLaMax as much. There is only one way to find out, and that is to test and monitor progress.
+The issue with strength training is that it could also increase my VLaMax, something I do not want. Some say that max strength training with few reps won't affect VLaMax as much. There is only one way to find out, and that is to test and monitor progress.
 
-Most importantly, **I need to find out how I can efficiently lower VLaMax, and how long it will take.**
+Most importantly, **I need to find out how I can efficiently lower VLaMax, and how long it will take.** It is okay to have a high VLaMax in periods, as long as it’s low when I need it to.
 
-It is okay to have a high VLaMax in periods, as long as it’s low when I need it to.
+**So what about VO2 max?** This is probably my main aerobic limiter, and most likely something I can see quick improvements in. However, it is not that important in ultra cycling. It is not uncommon to get a lower v02max from only focusing on ultra cycliing training. However, as I have done so little V02max training already, I don't think it will go down, but probably also not increase much, even with a higher training volume. 
 
-**So what about VO2 max?** This is one of my main limiters, and most likely something I can see quick improvements in.
+The problem is that this type of training will increase VLaMax, so I need to be smart about how I do it. 
 
-The problem is that this type of training will increase VLaMax, so I need to be smart about how I do it.
+I have not yet decided if I want to focus on VO2 max during this phase. It is tempting, and it feels risky to not do it, as I know that I can see quick gains from it. I already know
 
-I have read that some pros will do their VO2 max training early in the day to empty their glycogen storage in the muscles, and then some low cadence intervals (tempo/SS) later in the evening. This will then force your muscles to use more fat (work more aerobically), which makes it an efficient way to lower your VLaMax. This is another thing I need to test.
+as it's you can see gains easily and feel fit,  but that fitness also goes away quickly and creates alot of fatigue to train. 
 
-Many seem to do at least a few VO2 max sessions a month (for maintenance). They also do VO2 max blocks now and then to raise the ceiling before a new training phase.
+**My priority 1 is to find out how to lower VLaMax while improving muscular endurance and strength.**
 
-The problem with VO2 max is that it’s easily trained, and therefore easily lost. It kinda feels like a shortcut to fitness. You can quickly get really fit with VO2 max training, but you will lose it just as quickly. So you have to know when to use it. It also creates a lot of fatigue, so it will affect what other types of training you can do.
 
-I have not yet decided if I want to focus on VO2 max during this phase. **My priority 1 is to find out how to lower VLaMax while improving muscular endurance and strength.**
 
 
 
