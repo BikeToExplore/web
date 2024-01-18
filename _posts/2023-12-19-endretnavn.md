@@ -242,13 +242,19 @@ This phase might change based on what I learn from phase 1.
 
 **The focus now is to build up mileage. I want to feel good during all-day rides when this phase is over.**
 
+Basically, more of this: 
+![bikepacking rallarvegen](images/post1/rallarvegen.jpg)
+![bikepacking tour de dovre](images/post1/tourdedovre.jpg)
+
+
 At this point, my VLaMax will hopefully be lower. Which means that the training now gets a bit more polarized, at least in periods. I will probably train polarized during the weeks I want to do big weekend rides and adventures, and more pyramidal when that is not the case.
 
-I will reduce my strength training in the gym to a maintenance level.
+I will reduce my strength training in the gym to 1-2 sessions a week. 
 
 I will probably also try to increase my LT1 as high as possible. Which most likely means more VO2 max training, especially during the periods I am using a more polarized approach. Again, this depends on what my results are after phase 1.
 
 There will also hopefully be lots of weekend adventures to test my gear and just enjoy bikepacking. These adventures will be good for fatigue resistance and mental training, but I won’t do any intervals or any structured training during these rides. I will just try and ride them at ultra pace and enjoy being on my bike.
+
 
 **[Race around Denmark](https://racearounddenmark.org/)** in May will be my first bikepacking ultra race experience. I plan to do this race this event full-on, and not just as a training ride.
 
