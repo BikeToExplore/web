@@ -8,7 +8,6 @@ tags:   [Training, TCR]
 ---
 
 # Why ultra racing? 
-
 It's been more than four months since I decided I wanted to race **[The trans continental race (TCR)](https://www.lostdot.cc/race-brand/transcontinental). 
 Since then, I have been asking myself WHY**. All I know is that I want adventures without sacrificing my current life.
 
@@ -26,7 +25,6 @@ This is how I have always done it. I raced my first DH national championship one
 
 
 # It is time to take training seriously. 
-
 TCR is more than a physical challenge. That’s what makes it an adventure. There will be challenges I can’t control and train for. What I can control is how well I prepare. At least I can train hard.
 
 **So how do you train for a race like TCR?**
@@ -37,7 +35,6 @@ The first thing I did was to gather as much info as possible about the physical 
 
 
 ## Physical race demands
-
 - Duration: Multiple days, 18-20 hours a day on the bike
 - Intensity: Mostly below LT1 (aerobic threshold).
 - Energy use: 8,000 - 10,000 kcal per day.
@@ -51,7 +48,6 @@ The first thing I did was to gather as much info as possible about the physical 
 
 
 ## My current physical profile
-
 - I always loved cycling and always had a bike.
 - My main sport growing up was soccer.
 - I have been MTBing since 2021, raced DH and Enduro.
@@ -83,7 +79,6 @@ Some of these numbers are 1-2 years old, while others are recent. I took part in
 
 
 ## What I need to improve 
-
 I recently stumbled upon **HIGHNORT’s book Cycling Physiology of Training Science**, which I highly recommend. I took a table from this book and modified it to show the desired physical profile (race demand) vs. my current physical profile.
 
 Let’s look at my strengths and weaknesses compared to the demands of TCR.
@@ -102,7 +97,6 @@ Looking at this table, there are some clear areas I need to focus on. Let me go 
 
 
 ## Aerobic capacity and fractional utilization
-
 This is your VO2max, which is simply your heart's capacity to deliver oxygen to your muscles, and your muscles' efficiency at turning that oxygen into energy.
 VO2 max is the main limiter of your aerobic capacity, and it’s also genetic. You can improve it, some say even up to 25% or more, but most of us will never reach the same levels as the world's best no matter how hard we train.
 
@@ -120,7 +114,6 @@ My ranking of myself is based on my high fractional utilization and a decent, bu
 
 
 ## Fat oxidation 
-
 There are several studies showing that women naturally seem to be more efficient at using fat as fuel, and that this might be the reason why we are competitive with men in ultra-long endurance events.
 
 There is no need for a big engine you cannot fuel. The difference between 150w vs. 200w average for 18 hours is around 3500 kcal burned. That again is a 42,000 kcal difference over 12 days.
@@ -140,7 +133,6 @@ LT1 is limited by LT2 (anaerobic threshold), so you still need a good LT2.
 
 
 ## Vlamax
-
 This is the maximum production rate of lactate in your muscles. Some call this your glycolytic capacity, or better: glycolytic power. The Vlamax in endurance sports is in the range of 0.2 to 0.9 mmol/l/s. How high the Vlamax should be depends on the requirements of your discipline. A high Vlamax enables high intensities over a short period of time, such as sprinting. However, a high glycolytic energy supply also means that more carbohydrates and fewer fatty acids are burned. A low Vlamax, on the other hand, means improved fat metabolism and increased endurance performance. In ultra-cycling, it's all about getting that number as low as possible.
 
 With an individual training program, the first measurable changes in Vlamax can be achieved after 6 to 8 weeks. However, to reach the full potential of Vlamax training, several months of effective training are required.
@@ -156,7 +148,6 @@ I found this graph posted by tofel on the[Trainerroad Forum](https://www.trainer
 
 
 ## Endurance 
-
 This is about **muscular endurance, fatigue resistance, and work economy.**
 
 It is not enough to have a high LT1. You also need to be able to sustain that power for a long time, and you want to use as little energy as possible to do this.
@@ -168,7 +159,6 @@ My muscular endurance is, however, bad. I have a natural high cadence (90), and 
 
 
 ## Strength/mobility
-
 Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole body, not just the legs. For me, this is about **comfort on the bike and injury prevention.**
 
 I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits. I know know it's not the bikefit I need to change, it's me. 
@@ -182,7 +172,6 @@ I have an injury which I believe is caused by muscle imbalance. I have also alwa
 
 
 # Milestones on the road to TCR
-
 Based on my gap assessment, I have written down asometraining goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress while also keeping me motivated. By reaching these milestones, I believe I will be well prepared to reach my goal of < 12 hours. 
 
 Some of these goals might not make sense to you, but they all serve a purpose. Squatting more than my body weight won’t automatically make me an ultra goddess, but it will motivate me to go to the gym. I am highly motivated by numbers, and the only thing that really motivates me is progress and adventure. 
@@ -207,9 +196,7 @@ My biggest strength is probably my ability to notice and celebrate even the smal
 
 
 
-
 # My big plan
-
 The big question still remains: **How will I train to achieve my goals?**
 
 This will require trial and error, but I believe I have a good enough plan to get me started.
@@ -221,8 +208,9 @@ I also have to be patient and disciplined, and not try everything at once. It ca
 
 
 
-## Phase 1: Increase muscular endurance, start strenght traiing and lower Vlamax
 
+
+## Phase 1: Increase muscular endurance, start strenght traiing and lower Vlamax
 **I see muscular endurance as my biggest weakness.** This is also closely linked to strength training and VLaMax.
 
 This means that I will use a **pyramidal training approach** in this phase. Most of the training will be below LT2. My interval sessions will be between LT1 and LT2, so lots of tempo and sweet spot (SS) intervals. The main focus will be to increase time in the zone, and not power. Some do it the other way around. **Increase power first, then work on increasing duration at their new power.** I have tried this, and for me, this is a great way to burn out. Maybe this works if you already have good muscular endurance, something I do not.
@@ -248,8 +236,8 @@ as it's you can see gains easily and feel fit,  but that fitness also goes away 
 
 
 
-## Phase 2: Fatigue resistance, V02max and some test racing.
 
+## Phase 2: Fatigue resistance, V02max and some test racing.
 This phase might change based on what I learn from phase 1.
 
 **The focus now is to build up mileage. I want to feel good during all-day rides when this phase is over.**
@@ -273,8 +261,8 @@ I also plan to do some local brevets, hopefully with friends. I don't see this a
 
 
 
-## Phase 3: Peaking for the big race
 
+## Phase 3: Peaking for the big race
 I have not yet done any research on how to peak for something like this, but I definitely want to be fresh at the start. Both physically and mentally. Especially mentally.
 
 I plan to do a little peak before Race Around Denmark, as it will be a nice learning experience on peaking. Hopefully, I can use what I learned from that process going into this phase.
