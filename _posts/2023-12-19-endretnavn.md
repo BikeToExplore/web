@@ -3,7 +3,7 @@ layout: post
 title:   My training strategy for the Trans continental race ( TCR)
 description: Description of things
 date:   2023-12-24 15:01:35 +0300
-image:  ''
+image:  '\images\post1\tcrdemands.PNG'
 tags:   [Training, TCR]
 ---
 
@@ -88,10 +88,10 @@ I recently stumbled upon **HIGHNORT’s book Cycling Physiology of Training Scie
 
 Let’s look at my strengths and weaknesses compared to the demands of TCR.
 
-Blue = Avoid training.
-Green = Good enough. Focus on maintenance.
-Red = Priority 1 to improve.
-Purple = Good enough, but an opportunity for easy gains.
+- Blue = Avoid training.
+- Green = Good enough. Focus on maintenance.
+- Red = Priority 1 to improve.
+- Purple = Good enough, but an opportunity for easy gains.
 
 ![TCR demands vs. my current profile](\images\post1\tcrdemands.PNG)
 
