@@ -1,9 +1,9 @@
 ---
 layout: post
-title:   Training progress
+title:   Training progress update 1
 description: Description of things
 date:   2024-01-18
-image:  ''
+image:  '/images/post2/snowbike1.jpg'
 tags:   [Training, TCR]
 ---
 
