@@ -14,11 +14,9 @@ Since then, I have been asking myself WHY**. All I know is that I want adventure
 
 I am one of those people who dream about going on big adventures, but when I finally do, I always end up racing to get back home. I always feel bad for rushing home, so I figured ultra racing might be the balance for me.
 
-**My goal is to race TCR < 12 hours.** That is what I'm training for. It might be too ambitious, but for me, there is no motivation in chasing a goal that I know I can already do.
+**My goal is to race TCR < 12 hours.** That is what I'm training for. It might be too ambitious, but for me, there is no motivation in chasing a goal that I know I can already do. This goal definitely scares me. 
 
-Many would advise to do some shorter events first. But for me, it’s not really about waiting until I feel ready. I’m not afraid to fail. Failing is sometimes the only way to learn.
-
-I want the TCR experience because that’s what ignited my ultra spark. So I'm not going to wait (if I get a spot in 2024).
+Many would advise to do some shorter events first. That sounds smart. But that is not my way. I want the TCR experience because that’s what ignited my ultra spark. So I'm not going to wait until I feel ready. Because I don't think I will ever feel ready. 
 
 This is how I have always done it. I raced my first DH national championship one month after I got my first DH bike. I spent most of my training runs standing around being scared. I was mostly by myself, and I did not feel ready at all. I had to learn while I was racing. All I know is that there is no way I would have progressed as fast if I waited until I felt ready. I believe racing is the fastest way to improve, as it forces you out of your comfort zone.
 
@@ -32,7 +30,7 @@ TCR is more than a physical challenge. That’s what makes it an adventure. Ther
 The first thing I did was to gather as much info as possible about the physical demands of the race. Then I wrote down my current physical profile and compared it with the physical demands of the race. This gave me a good idea of what I need to work on.
 
 
-##Physical race demands
+## Physical race demands
 
 - Duration: Multiple days, 18-20 hours a day on the bike
 - Intensity: Mostly below LT1 (aerobic threshold).
@@ -64,7 +62,7 @@ The first thing I did was to gather as much info as possible about the physical 
 - Max 5-minute power = 270-280 W (Zwift racing).
 - FTP (ramp test) = 235 W (always overestimates my FTP).
 - Lactate threshold (LT2) - about 215-220 W. Will test more specifically soon.
-- Aerobic threshold (LT1) - 170 W
+- Aerobic threshold (LT1) - 170w
 - Weight: 67-68 kg, Height: 168 cm
 - VO2 max = 50 ml/kg/min.
 - Utilization of VO2 max = 90% - average during 30-min time trial.
@@ -73,7 +71,7 @@ The first thing I did was to gather as much info as possible about the physical 
 - Lactate clearance rate = 0.35
 - Lactate clearance drop = 52.6%
 
-I took part in a research study about two years ago where I tested things like VO2 max, utilization of VO2 max, and oxygen extraction at VO2 max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my VO2 max (my heart's capacity to deliver oxygen to my muscles) is one of my main limiters. These results make sense with my training history. I have done mostly zone 2/3 (with high cadence) and some sprints in the last two years. An injury has made it hard for me to do intervals, so I have done very little HIIT training.
+I took part in a research study about two years ago where I tested things like VO2 max, utilization of VO2 max, and oxygen extraction at VO2 max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my VO2 max (my heart's capacity to deliver oxygen to my muscles) is one of my main limiters. I think These results make sense with my training history. I have done mostly zone 2/3 (with high cadence) and some sprints in the last two years. An injury has made it hard for me to do intervals, so I have done very little HIIT training.
 
 
 ## What I need to improve 
@@ -124,6 +122,17 @@ LT1 is limited by LT2 (anaerobic threshold), so you still need a good LT2.
 
 ## Vlamax
 
+This is the maximum production rate of lactate in your muscles. Some call this your glycolytic capacity, or better: glycolytic power. The Vlamax in endurance sports is in the range of 0.2 to 0.9 mmol/l/s. How high the Vlamax should be depends on the requirements of your discipline. A high Vlamax enables high intensities over a short period of time, such as sprinting. However, a high glycolytic energy supply also means that more carbohydrates and fewer fatty acids are burned. A low Vlamax, on the other hand, means improved fat metabolism and increased endurance performance. In ultra-cycling, it's all about getting that number as low as possible.
+
+With an individual training program, the first measurable changes in Vlamax can be achieved after 6 to 8 weeks. However, to reach the full potential of Vlamax training, several months of effective training are required.
+
+The problem is that there are no standard tests for Vlamax. This means that the measured value is heavily influenced by the protocol and the exercise itself, something I have noticed. I have tested this twice and quickly learned that I need to dial in a strict protocol to make it comparable. All I know is that my Vlamax is too high (around 0.5-0.7), and that this affects my fat metabolism and also my power profile.
+
+I found this graph posted by tofel on the (Trainerroad Forum](https://www.trainerroad.com/forum/t/that-triathlon-show-ep-169-ftp-vo2max-and-vlamax/11992/60?page=4)
+
+
+
+![FTP vs. V02Max vs. Vlamax](images/post1/FTPvsV02MAXvsVlamaxgraph.png)
 
 
 ## Endurance 
@@ -139,11 +148,9 @@ My muscular endurance is, however, bad. I have a natural high cadence (90), and 
 
 ## Strength/mobility
 
-Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole body, not just the legs.
+Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole body, not just the legs. For me, this is about **comfort on the bike and injury prevention.**
 
-For me, this is about **comfort on the bike and injury prevention.**
-
-I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits.
+I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits. I know know it's not the bikefit I need to change, it's me. 
 
 **I believe that true strength requires great mobility.** Rock climbing has really shown me the power of great mobility and how much it can limit you.
  
@@ -151,14 +158,13 @@ I have an injury which I believe is caused by muscle imbalance. I have also alwa
 
 # Milestones on the road to TCR
 
-Based on my gap assessment, I have written down a few training goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress while also keeping me motivated. By reaching these milestones, I believe I will be well prepared to reach my goal of < 12 hours. 
+Based on my gap assessment, I have written down asometraining goals to work towards. Some small and some bigger milestones along the way to TCR. This will help me monitor my progress while also keeping me motivated. By reaching these milestones, I believe I will be well prepared to reach my goal of < 12 hours. 
 
 Some of these goals might not make sense to you, but they all serve a purpose. Squatting more than my body weight won’t automatically make me an ultra goddess, but it will motivate me to go to the gym. I am highly motivated by numbers, and the only thing that really motivates me is progress and adventure. 
 
 My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. There is always motivation to be found if you look for it.
 
-**Green = Completed / current level.**
-**White = Not completed.**
+
 
 
 
