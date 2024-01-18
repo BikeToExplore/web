@@ -24,6 +24,7 @@ This is how I have always done it. I raced my first DH national championship one
 
 
 
+
 # It is time to take training seriously. 
 
 TCR is more than a physical challenge. That’s what makes it an adventure. There will be challenges I can’t control and train for. What I can control is how well I prepare. At least I can train hard.
@@ -31,6 +32,7 @@ TCR is more than a physical challenge. That’s what makes it an adventure. Ther
 **So how do you train for a race like TCR?**
 
 The first thing I did was to gather as much info as possible about the physical demands of the race. Then I wrote down my current physical profile and compared it with the physical demands of the race. This gave me a good idea of what I need to work on.
+
 
 
 
@@ -44,6 +46,7 @@ The first thing I did was to gather as much info as possible about the physical 
 - Terrain: Mostly pavement with some off-road. Lots of climbing, some very steep.
 - Some hike-a-bike.
 - A lot of riding in aero bars (I hope).
+
 
 
 
@@ -114,6 +117,8 @@ My ranking of myself is based on my high fractional utilization and a decent, bu
 
 
 
+
+
 ## Fat oxidation 
 
 There are several studies showing that women naturally seem to be more efficient at using fat as fuel, and that this might be the reason why we are competitive with men in ultra-long endurance events.
@@ -132,6 +137,8 @@ LT1 is limited by LT2 (anaerobic threshold), so you still need a good LT2.
 
 
 
+
+
 ## Vlamax
 
 This is the maximum production rate of lactate in your muscles. Some call this your glycolytic capacity, or better: glycolytic power. The Vlamax in endurance sports is in the range of 0.2 to 0.9 mmol/l/s. How high the Vlamax should be depends on the requirements of your discipline. A high Vlamax enables high intensities over a short period of time, such as sprinting. However, a high glycolytic energy supply also means that more carbohydrates and fewer fatty acids are burned. A low Vlamax, on the other hand, means improved fat metabolism and increased endurance performance. In ultra-cycling, it's all about getting that number as low as possible.
@@ -147,6 +154,7 @@ I found this graph posted by tofel on the[Trainerroad Forum](https://www.trainer
 
 
 
+
 ## Endurance 
 
 This is about **muscular endurance, fatigue resistance, and work economy.**
@@ -158,6 +166,7 @@ My muscular endurance is, however, bad. I have a natural high cadence (90), and 
 
 
 
+
 ## Strength/mobility
 
 Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole body, not just the legs. For me, this is about **comfort on the bike and injury prevention.**
@@ -165,6 +174,8 @@ Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole 
 I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits. I know know it's not the bikefit I need to change, it's me. 
 
 **I believe that true strength requires great mobility.** Rock climbing has really shown me the power of great mobility and how much it can limit you.
+
+
 
 
 
@@ -192,6 +203,11 @@ My biggest strength is probably my ability to notice and celebrate even the smal
 
 
 
+
+
+
+
+
 # My big plan
 
 The big question still remains: **How will I train to achieve my goals?**
@@ -201,6 +217,7 @@ This will require trial and error, but I believe I have a good enough plan to ge
 All I know is that **sometimes you have to get worse at one thing to improve another.** I know that I have to sacrifice my sprint and anaerobic power to reach my goal. I can’t be good at both.
 
 I also have to be patient and disciplined, and not try everything at once. It can take me years to fully figure out what works for me. Some data is better than none. I just have to start collecting data and learn from it.
+
 
 
 
@@ -230,6 +247,7 @@ as it's you can see gains easily and feel fit,  but that fitness also goes away 
 
 
 
+
 ## Phase 2: Fatigue resistance, V02max and some test racing.
 
 This phase might change based on what I learn from phase 1.
@@ -251,6 +269,7 @@ I picked this race because of the timing, easy logistics, and because it's a lot
 These races take a lot of time and logistics, so I probably won't do too many. If I am to race TCR, that will take up most of my vacation days. And it's not like you need to enter a race to test yourself anyway. I can easily create my own race to get the practice I need. That sure is one big upside of doing unsupported racing, and why I think many love it. It's a personal challenge above anything else.
 
 I also plan to do some local brevets, hopefully with friends. I don't see this as racing though. More like a challenge ride. 
+
 
 
 
