@@ -179,6 +179,16 @@ Some of these goals might not make sense to you, but they all serve a purpose. S
 My biggest strength is probably my ability to notice and celebrate even the smallest gains. There is always something to learn from every workout. There is always motivation to be found if you look for it.
 
 
+- Do a virtual everesting < 12 hours. 
+- Lt1 < 10% of LT2
+- Lt1 > 3 w/kg
+- 300km < 12 hours and 600km < 24 hours
+- CLT > 120 at race start with no fatigue. 
+- Vlamax < 0.4
+- Squat 1.2x my body weight x 5 rep.
+- Deadlift x2 my body weight x 5 rep.
+- Max out the leg press machine(260kg)
+- 10 pullups. 
 
 
 
