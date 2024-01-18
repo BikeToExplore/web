@@ -3,7 +3,7 @@ layout: post
 title:   My training strategy for the Trans continental race ( TCR)
 description: Description of things
 date:   2023-12-24 15:01:35 +0300
-image:  '\images\post1\selfie.jpg'
+image:  '\images\post1\tcrroute.jpg'
 tags:   [Training, TCR]
 ---
 
