@@ -21,6 +21,9 @@ Many would advise to do some shorter events first. That sounds smart. But that i
 This is how I have always done it. I raced my first DH national championship one month after I got my first DH bike. I spent most of my training runs standing around being scared. I was mostly by myself, and I did not feel ready at all. I had to learn while I was racing. All I know is that there is no way I would have progressed as fast if I waited until I felt ready. I believe racing is the fastest way to improve, as it forces you out of your comfort zone.
 
 
+
+
+
 # It is time to take training seriously. 
 
 TCR is more than a physical challenge. That’s what makes it an adventure. There will be challenges I can’t control and train for. What I can control is how well I prepare. At least I can train hard.
@@ -28,6 +31,7 @@ TCR is more than a physical challenge. That’s what makes it an adventure. Ther
 **So how do you train for a race like TCR?**
 
 The first thing I did was to gather as much info as possible about the physical demands of the race. Then I wrote down my current physical profile and compared it with the physical demands of the race. This gave me a good idea of what I need to work on.
+
 
 
 ## Physical race demands
@@ -72,6 +76,9 @@ The first thing I did was to gather as much info as possible about the physical 
 Some of these numbers are 1-2 years old, while others are recent. I took part in a research study about two years ago where I tested things like VO2 max, utilization of VO2 max, and oxygen extraction at VO2 max (x 4 tests). The results showed that my muscles are very efficient at turning oxygen into energy while cycling. Almost no oxygen is wasted. This means that my VO2 max (my heart's capacity to deliver oxygen to my muscles) is one of my main limiters. I think These results make sense with my training history. I have done mostly zone 2/3 (with high cadence) and some sprints in the last two years. An injury has made it hard for me to do intervals, so I have done very little HIIT training.
 
 
+
+
+
 ## What I need to improve 
 
 I recently stumbled upon **HIGHNORT’s book Cycling Physiology of Training Science**, which I highly recommend. I took a table from this book and modified it to show the desired physical profile (race demand) vs. my current physical profile.
@@ -86,6 +93,8 @@ Purple = Good enough, but an opportunity for easy gains.
 ![TCR demands vs. my current profile](\images\post1\tcrdemands.PNG)
 
 Looking at this table, there are some clear areas I need to focus on. Let me go a bit more into detail on how I ended up with this conclusion.
+
+
 
 
 
@@ -104,7 +113,8 @@ Your fractional utilization goes down as duration goes up. This is highly traina
 My ranking of myself is based on my high fractional utilization and a decent, but not great VO2max. *I have done very few VO2max workouts in the last few years (or ever), which has made VO2max my limiter.*There is definitely room for improvement here, and some should be relatively easy gains.
 
 
-## Fat oxidation: 
+
+## Fat oxidation 
 
 There are several studies showing that women naturally seem to be more efficient at using fat as fuel, and that this might be the reason why we are competitive with men in ultra-long endurance events.
 
@@ -121,6 +131,7 @@ TCR has a lot of climbing. I know that I can climb most climbs at around 200w. S
 LT1 is limited by LT2 (anaerobic threshold), so you still need a good LT2.
 
 
+
 ## Vlamax
 
 This is the maximum production rate of lactate in your muscles. Some call this your glycolytic capacity, or better: glycolytic power. The Vlamax in endurance sports is in the range of 0.2 to 0.9 mmol/l/s. How high the Vlamax should be depends on the requirements of your discipline. A high Vlamax enables high intensities over a short period of time, such as sprinting. However, a high glycolytic energy supply also means that more carbohydrates and fewer fatty acids are burned. A low Vlamax, on the other hand, means improved fat metabolism and increased endurance performance. In ultra-cycling, it's all about getting that number as low as possible.
@@ -135,6 +146,7 @@ I found this graph posted by tofel on the[Trainerroad Forum](https://www.trainer
 ![FTP vs. V02Max vs. Vlamax](images/post1/FTPvsV02MAXvsVlamaxgraph.png)
 
 
+
 ## Endurance 
 
 This is about **muscular endurance, fatigue resistance, and work economy.**
@@ -144,7 +156,7 @@ Endurance takes time to train, especially work economy, which is highly sport-sp
 
 My muscular endurance is, however, bad. I have a natural high cadence (90), and the more power I push down the pedal, the higher the cadence. I am used to easy MTB gear and like to spin to save my legs.
 
- 
+
 
 ## Strength/mobility
 
@@ -153,7 +165,9 @@ Spending 18-20 hours on the bike, day in and day out is fatiguing for the whole 
 I have an injury which I believe is caused by muscle imbalance. I have also always struggled with comfort on the bike, even after several bike fits. I know know it's not the bikefit I need to change, it's me. 
 
 **I believe that true strength requires great mobility.** Rock climbing has really shown me the power of great mobility and how much it can limit you.
- 
+
+
+
 
 
 # Milestones on the road to TCR
@@ -206,8 +220,6 @@ as it's you can see gains easily and feel fit,  but that fitness also goes away 
 
 
 
-
-
 ## Phase 2: Fatigue resistance, V02max and some test racing.
 
 This phase might change based on what I learn from phase 1.
@@ -230,7 +242,6 @@ These races take a lot of time and logistics, so I probably won't do too many. I
 
 I also plan to do some local brevets, hopefully with friends. I don't see this as racing though. More like a challenge ride. 
 
- 
 
 
 ## Phase 3: Peaking for the big race
