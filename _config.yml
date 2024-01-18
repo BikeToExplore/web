@@ -16,7 +16,7 @@ author:
   author__avatar: '../images/avatar.png'
 
 social:
-#- {icon: "ion-logo-youtube", link: ""}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@Aliceonwheels"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/alicegrindheim/"}
 
 
