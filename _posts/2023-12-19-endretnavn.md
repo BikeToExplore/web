@@ -242,8 +242,9 @@ This phase might change based on what I learn from phase 1.
 
 **The focus now is to build up mileage. I want to feel good during all-day rides when this phase is over.**
 
-Basically, more of this: 
+Basically, more of this, but with less weight:
 ![bikepacking rallarvegen](images/post1/rallarvegen.jpg)
+
 ![bikepacking tour de dovre](images/post1/tourdedovre.jpg)
 
 
