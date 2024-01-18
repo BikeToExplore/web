@@ -4,7 +4,7 @@ title:   Training progress update 1
 description: Description of things
 date:   2024-01-18
 image:  '/images/post2/snowbike1.jpg'
-tags:   [Training, TCR]
+tags:   [Training, TCR] 
 ---
 
 
