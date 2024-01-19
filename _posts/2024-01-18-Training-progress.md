@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   Training progress update 
+title:   Training progress update 1
 description: Training phase 1, part 1. This is an update on my progress from the last 3 months of training.
 date:   2024-01-18
 image:  '/images/post2/snowbike1.jpg'
