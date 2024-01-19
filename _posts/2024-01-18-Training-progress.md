@@ -9,7 +9,7 @@ tags:   [Training, TCR]
 
 
 # How I have trained
-I have been training constantly since I decided to race TCR in August, but it took a bit of time to find out how. I tried a few generic programs before I eventually decided to buy my own lactate meter and make my own training plan and strategy.
+I have been training constantly since I decided to race TCR in August, but it took a bit of time to find out how. I tried a few generic programs before I eventually decided to buy my own lactate meter and make my own ![training plan and strategy.](https://biketoexplore.com/How-I-have-trained)
 
 I have spent quite some time fine-tuning everything. At first, I planned a whole month at a time, but that was just a waste of time. I ended up being too ambitious, as the plan was based on "perfect conditions." This type of training mix was also new to me, so I had no idea how well I would recover and how much volume I could handle. 
 
