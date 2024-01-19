@@ -1,7 +1,7 @@
 ---
 layout: post
-title:   My training strategy for the Trans continental race (TCR)
-description: Description of things
+title:   How I train for the Trans Continental race (TCR)
+description: My training strategy and training goal for the Trans Continental race ( TCR) in 2024.
 date:   2023-12-24
 image:  '\images\post1\tcrroute.jpg'
 tags:   [Training, TCR]
@@ -13,7 +13,7 @@ Since then, I have been asking myself WHY**. All I know is that I want adventure
 
 I am one of those people who dream about going on big adventures, but when I finally do, I always end up racing to get back home. I always feel bad for rushing home, so I figured ultra racing might be the balance for me.
 
-**My goal is to race TCR < 12 hours.** That is what I'm training for. It might be too ambitious, but for me, there is no motivation in chasing a goal that I know I can already do. This goal definitely scares me. 
+**My goal is to race TCR < 12 days.** That is what I'm training for. It might be too ambitious, but for me, there is no motivation in chasing a goal that I know I can already do. This goal definitely scares me. 
 
 Many would advise to do some shorter events first. That sounds smart. But that is not my way. I want the TCR experience because that’s what ignited my ultra spark. So I'm not going to wait until I feel ready. Because I don't think I will ever feel ready. 
 
