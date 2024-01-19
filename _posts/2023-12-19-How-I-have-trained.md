@@ -1,7 +1,7 @@
 ---
 layout: post
-title:   How I train for the Trans Continental race (TCR)
-description: My training strategy and training goal for the Trans Continental race ( TCR) in 2024.
+title:   How I plan train for the Trans Continental Race (TCR) in 2024
+description: My training strategy and training goal for the Trans Continental race (TCR) in 2024.
 date:   2023-12-24
 image:  '\images\post1\tcrroute.jpg'
 tags:   [Training, TCR]

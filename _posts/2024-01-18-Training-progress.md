@@ -1,7 +1,7 @@
 ---
 layout: post
-title:   Training progress update 1
-description: Description of things
+title:   Training progress update 
+description: Training phase 1, part 1. This is an update on my progress from the last 3 months of training.
 date:   2024-01-18
 image:  '/images/post2/snowbike1.jpg'
 tags:   [Training, TCR] 
@@ -43,7 +43,7 @@ Tempo intervals at 80 rpm feel a lot easier. I used to do all rides in my 1x8 or
 
 I have been doing some lactate measurements, but it's not always easy to compare and see progress. I know I did the testing wrong the first time (lactate strip touched my finger), but since then I have been getting better.
 
-There seem to be a few changes, however. My baseline seems to have gotten lower, and my LT1 has improved a little. It is now around 170w, which feels correct. Here are all my measurements from the last few months:
+There seem to be a few changes, however. My baseline seems to have gotten lower, and my LT1 has improved a little. It is now around 180w, which feels correct. Here are all my measurements from the last few months:
 
 ![Lactate measurements](/images/post2/laktat.PNG)
 
